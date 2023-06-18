@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+* {
+    font-family: 'Inter', sans-serif;
+font-family: 'Montserrat', sans-serif;
+}
+body {
+    text-align: center;
+    background-image: linear-gradient(to bottom,#800600, #FF554D, #FF0C01,#802B26, #CC0A00 );
+}
+
+img {
+    border-radius: 10%;
+}
+
+main {
+    background-color: white;
+    border-radius: 10px;
+    /* box-shadow: 10px 20px 30px #800600; */
+    width: 70vw;
+    margin: 0% auto;
+}
+
+h1 {
+   font-weight: 900;
+}
+
+p {
+    text-align: left;
+    
+}
+
+li {
+    list-style: none;
+}
